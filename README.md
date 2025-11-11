@@ -5,7 +5,7 @@
 
 **⚙️ Pengertian Singkat**
 
-OpenLiteSpeed (OLS) adalah versi open source dari LiteSpeed Web Server (LSWS) — sebuah web server modern yang dirancang agar super cepat, ringan, dan mudah diatur.
+OpenLiteSpeed (OLS) adalah versi open source dari LiteSpeed Web Server (LSWS), sebuah web server modern yang dirancang agar super cepat, ringan, dan mudah diatur.
 Dia sering dibandingkan dengan Apache dan Nginx, karena fungsi utamanya sama: menyajikan konten web ke pengguna.
 
 
@@ -25,7 +25,7 @@ Bisa memproses PHP jauh lebih cepat karena menggunakan LiteSpeed SAPI (LSAPI), b
 
 **2. 🧠 Caching yang Kuat**
 
-Memiliki LiteSpeed Cache (LSCache) bawaan — sangat cepat dan bisa mempercepat situs WordPress, Joomla, atau Laravel secara drastis.
+Memiliki LiteSpeed Cache (LSCache) bawaan sangat cepat dan bisa mempercepat situs WordPress, Joomla, atau Laravel secara drastis.
 
 Tidak perlu plugin caching tambahan (beda dengan Apache atau Nginx).
 
