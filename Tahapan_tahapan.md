@@ -1,4 +1,4 @@
-###📘 Tutorial Instalasi OpenLiteSpeed (OLS) – Versi Penjelasan Ulang
+### Tutorial Instalasi OpenLiteSpeed (OLS)
 A. Persiapan Server Debian
 Sebelum mulai memasang OpenLiteSpeed, pastikan kamu sudah menyiapkan:
 - Server Debian yang sudah memiliki alamat IP dan terhubung ke jaringan LAN.
