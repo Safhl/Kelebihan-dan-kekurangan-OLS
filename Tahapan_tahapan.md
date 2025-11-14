@@ -7,9 +7,12 @@ Sebelum mulai memasang OpenLiteSpeed, pastikan kamu sudah menyiapkan:
 - Coba akses server melalui SSH di CMD dan WinSCP, untuk memastikan konek ke server aman dan lancar.
 ___
 **B. Instalasi OpenLiteSpeed (OLS)**
+
 Karena OLS memakai repo tambahan, pastikan server bisa internet. Setelah itu jalankan:
-1. Update & Upgrade Sistem
-apt update && apt upgrade 
+1. Update & Upgrade Sistem :
+   *apt update && apt upgrade*
+
+
 2. Install utilitas penting
 apt install wget curl 
 3. Tambahkan repository OLS
