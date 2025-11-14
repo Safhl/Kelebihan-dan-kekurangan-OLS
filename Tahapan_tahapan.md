@@ -12,7 +12,7 @@ Karena OLS memakai repo tambahan, pastikan server bisa internet. Setelah itu jal
 
 1. Upgrade dan Update Sistem
   >- apt update
-   - apt upgrade
+  >- apt upgrade
 
 
 2. Install utilitas penting
