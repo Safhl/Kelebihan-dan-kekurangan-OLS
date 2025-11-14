@@ -1,10 +1,11 @@
 ### Tutorial Instalasi OpenLiteSpeed (OLS)
-A. Persiapan Server Debian
+**A. Persiapan Server Debian**
 Sebelum mulai memasang OpenLiteSpeed, pastikan kamu sudah menyiapkan:
 - Server Debian yang sudah memiliki alamat IP dan terhubung ke jaringan LAN.
 - Repositori Debian sudah bisa digunakan untuk instalasi paket.
 - Coba akses server melalui SSH di CMD dan WinSCP, untuk memastikan konek ke server aman dan lancar.
-B. Instalasi OpenLiteSpeed (OLS)
+___
+**B. Instalasi OpenLiteSpeed (OLS)**
 Karena OLS memakai repo tambahan, pastikan server bisa internet. Setelah itu jalankan:
 1. Update & Upgrade Sistem
 apt update && apt upgrade 
