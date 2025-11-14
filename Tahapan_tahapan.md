@@ -13,18 +13,17 @@ Karena OLS memakai repo tambahan, pastikan server bisa internet. Setelah itu jal
 1. Upgrade dan Update Sistem
   >- apt update
   >- apt upgrade
-
-
 2. Install utilitas penting
   >- apt install wget curl 
 3. Tambahkan repository OLS
   >- wget -O - https://repo.litespeed.sh | bash 
 4. Install OpenLiteSpeed
-apt install openlitespeed 
+  >- apt install openlitespeed 
 5. Install PHP 8.4 + MySQL extension
-apt install lsphp84 lsphp84-mysql 
+  >- apt install lsphp84 lsphp84-mysql 
 6. Jalankan dan aktifkan service OLS
-systemctl start lsws systemctl enable lsws 
+  >- systemctl start lsws 
+  >- systemctl enable lsws 
 C. Membuat Password Panel Admin
 Untuk masuk ke panel konfigurasi OLS, kamu harus membuat username dan password:
 • Jalankan script:
